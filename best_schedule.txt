@@ -1,0 +1,12 @@
+Best Schedule:
+SLA100A - Location: Roman 201, Hour: 2 PM, Instructor: Banks
+SLA100B - Location: Roman 201, Hour: 12 PM, Instructor: Banks
+SLA191A - Location: Loft 310, Hour: 1 PM, Instructor: Numen
+SLA191B - Location: Roman 201, Hour: 2 PM, Instructor: Zeldin
+SLA201 - Location: Loft 206, Hour: 1 PM, Instructor: Banks
+SLA291 - Location: Slater 003, Hour: 1 PM, Instructor: Zeldin
+SLA303 - Location: Loft 310, Hour: 2 PM, Instructor: Zeldin
+SLA304 - Location: Beach 201, Hour: 11 AM, Instructor: Banks
+SLA394 - Location: Loft 206, Hour: 3 PM, Instructor: Richards
+SLA449 - Location: Loft 206, Hour: 3 PM, Instructor: Shaw
+SLA451 - Location: Loft 310, Hour: 12 PM, Instructor: Tyler
